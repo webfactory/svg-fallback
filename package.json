@@ -1,0 +1,9 @@
+{
+    "name": "svg-fallback",
+    "version": "0.0.1",
+    "dependencies": {
+        "grunt": "~0.4.2",
+        "grunt-contrib-uglify": "~0.2.5",
+        "grunt-contrib-clean": "^0.5.0"
+    }
+}
