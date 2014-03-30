@@ -13,6 +13,7 @@ module.exports = function (grunt) {
                 files: {
                     'dist/svg-fallback.min.js': [
                         'src/modernizr.svg.js',
+                        'src/jquery.svg-fallback.js',
                         'src/svg-fallback.js'
                     ]
                 }
